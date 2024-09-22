@@ -1,0 +1,354 @@
+/* Smartphones iPhone 4  any small screen*/
+
+@media (min-width: 0px) and (max-width: 320px) {
+    .head-btn2 {
+
+        font-size: .8rem;
+    }
+
+    .head-btn1 {
+        font-size: .8rem;
+
+    }
+
+    .p-lorem-home {
+        font-size: 13px;
+        width: 300px;
+    }
+
+    .welcometo-fontsize {
+        font-size: 17px;
+    }
+
+    .family-bakery {
+        font-size: 25px;
+    }
+
+    .center-about-height {
+        height: 300px;
+    }
+
+    .w-offers {
+        width: 90%;
+    }
+
+    #offer {
+        margin-top: 150px;
+    }
+
+    #inner-modal {
+        width: 90%;
+        height: 350px;
+    }
+    .bakery-font {
+        font-size: 2.1rem;
+    }
+
+    .form-width{
+        width: 95%;
+    }
+
+    .bg-sent-success p{
+        font-size: 10px;
+     }
+
+     .modal-body p{
+        font-size: 11px;
+    }
+}
+
+
+@media (min-width: 321px)and (max-width: 480px) {
+    .head-btn2 {
+
+        font-size: .8rem;
+    }
+
+    .head-btn1 {
+        font-size: .8rem;
+
+    }
+
+    .p-lorem-home {
+        font-size: 13px;
+        width: 300px;
+    }
+
+    .welcometo-fontsize {
+        font-size: 17px;
+    }
+
+    .family-bakery {
+        font-size: 25px;
+    }
+
+    .center-about-height {
+        height: 350px;
+    }
+
+    .w-offers {
+        width: 90%;
+    }
+
+    #offer {
+        margin-top: 90px;
+    }
+
+    #inner-modal {
+        width: 90%;
+        height: 400px;
+    }
+
+    .form-width{
+        width: 95%;
+    }
+
+    .bg-sent-success p{
+        font-size: 12px;
+     }
+
+     .modal-body p{
+        font-size: 11px;
+    }
+}
+
+
+@media (min-width: 481px) and (max-width: 640px) {
+    .head-btn2 {
+        background-color: transparent;
+        color: white;
+        border: solid 2px white;
+        font-size: .8rem;
+    }
+
+    .head-btn1 {
+        font-size: .8rem;
+    }
+
+
+    .p-lorem-home {
+        font-size: 13px;
+    }
+
+    .center-about-height {
+        height: 420px;
+    }
+
+    #offer {
+        margin-top: 0px;
+    }
+
+    #inner-modal {
+        width: 90%;
+        height: 450px;
+    }
+    .form-width{
+        width: 95%;
+    }
+
+    .bg-sent-success p{
+        font-size: 12px;
+     }
+}
+
+
+@media (min-width: 641px) and (max-width: 800px) {
+    .center-about-height {
+        height: 500px;
+    }
+
+    #offer {
+
+        margin-top: 0px;
+    }
+    #inner-modal {
+        width: 85%;
+        height: 500px;
+    }
+  
+    .bg-sent-success p{
+        font-size: 12px;
+     }
+
+   
+}
+
+
+@media (min-width: 801px) and (max-width: 1024px) {
+    .center-about-height {
+        height: 500px;
+    }
+
+    #offer {
+        margin-top: 0px;
+    }
+
+    #inner-modal {
+        width: 85%;
+        height: 700px;
+    }
+
+    .bg-sent-success p{
+        font-size: 15px;
+     }
+
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    .font-about {
+        font-size: 17px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+    }
+
+    .border-icon-about {
+        border: solid 1px rgb(211, 207, 207);
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+
+    }
+
+
+    #about i {
+        text-align: center;
+        margin-left: 30% !important;
+        margin-top: 30% !important;
+        color: var(--brown);
+        font-size: 12px;
+    }
+
+    #about .fa-users {
+        margin-left: 25% !important;
+        margin-top: 25% !important;
+    }
+
+    .w-offers {
+        width: 95%;
+    }
+
+    #offer {
+
+        margin-top: 10px;
+    }
+    #inner-modal {
+        width: 85%;
+        height: 700px;
+    }
+
+
+ 
+   
+
+}
+
+/* Desktops and laptops ----------- */
+
+@media (min-width: 1281px) and (max-width: 1800px) {
+
+    .font-about {
+
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+    }
+
+    .w-offers {
+        width: 90%;
+    }
+
+    #offer {
+
+        margin-top: 40px;
+    }
+    #inner-modal {
+        width: 70%;
+        height: 700px;
+    }
+
+   
+}
+
+@media (min-width:1801px)and (max-width: 2200px) {
+    .font-about {
+
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+    }
+
+}
+
+
+
+
+@media (min-width: 0px) and (max-width: 991px) {
+    .nav-background {
+        background-color: white !important;
+        margin-left: 25px !important;
+    }
+
+    #nav-bar .nav-link {
+        color: black !important;
+    }
+
+    .me-3 {
+        margin: 0 !important;
+    }
+
+    .underline-nav {
+        display: none;
+
+    }
+
+    .underline-nav-home {
+        display: none;
+
+    }
+}
+
+
+@media (min-width: 767px) and (max-width: 1024px) {
+
+    .font-about {
+        font-size: 15px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 20px;
+    }
+
+    .border-icon-about {
+        border: solid 1px rgb(211, 207, 207);
+        display: inline-block;
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+
+    }
+
+
+    #about i {
+        text-align: center;
+        margin-left: 30% !important;
+        margin-top: 30% !important;
+        color: var(--brown);
+        font-size: 10px;
+    }
+
+    #about .fa-users {
+        margin-left: 25% !important;
+        margin-top: 25% !important;
+    }
+
+}
+
+
+@media (min-width: 0px) and (max-width: 767px) {
+
+    .font-about {
+        padding-left: 25px;
+    }
+
+}
